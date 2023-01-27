@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amandajaquino&label=Profile%20views&color=0e75b6&style=flat" alt="amandajaquino" /> </p>
 
-- 🔭 I’m currently working on **Farol project, a project of somalabs from soma group from Brazil**
+- 🔭 I’m currently working on **Farol project, a project of Somalabs from Soma group in Brazil**
 
 - 🌱 I’m currently learning *** Back-end and Front-end courses by Meta; ** Degreee in System Analysis by Celso Lisboa**
 
