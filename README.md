@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Farol project, a project of Somalabs from Soma group in Brazil**
 
-- 🌱 I’m currently learning *** Back-end and Front-end courses by Meta; *** Degreee in System Analysis by Celso Lisboa**
+- 🌱 I’m currently learning *** Back-end and Front-end courses by Meta; *** Degree in System Analysis by Celso Lisboa - Brazil**
 
 - 👯 I’m looking to collaborate on **JavaScript and Python projects**
 
