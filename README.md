@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amandajaquino&label=Profile%20views&color=0e75b6&style=flat" alt="amandajaquino" /> </p>
 
-- 🔭 I’m currently working on **Farol project, a ReactJS project of Somalabs from Soma group in Brazil**
+- 🤝 I finished my job on **Farol project, a ReactJS project of Somalabs from Soma group in Brazil**, with 1272 hours of coding using React, JavaScript, HTML and CSS.
 
 - 🌱 I’m currently learning *** Back-end and Front-end courses by Meta; *** Degree in System Analysis by Celso Lisboa - Brazil**
 
-- 👯 I’m looking to collaborate on **JavaScript and Python projects**
+- 🔭👯 I’m working and looking to collaborate on **JavaScript and Python projects**
 
 - 🤝 I’m looking for help with **JavaScript and Python projects**
 
